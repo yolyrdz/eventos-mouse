@@ -13,7 +13,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author salvador
+ * @author yolanda
  */
 class Ventana extends JFrame implements MouseListener {
 

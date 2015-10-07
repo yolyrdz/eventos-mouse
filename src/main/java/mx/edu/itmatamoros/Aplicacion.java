@@ -7,7 +7,7 @@ package mx.edu.itmatamoros;
 
 /**
  *
- * @author salvador
+ * @author yolanda
  */
 public class Aplicacion {
 
